@@ -31,7 +31,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 ## Dashboard
 
-![Alt text of the image](https://github.com/JAISAHU2074/Vrinda-Store-Data-Analysis/commit/3cef9dd827569849c4f0c1e988f4263631b9e95d#commitcomment-135386304)
+![Alt text of the image](https://github.com/JAISAHU2074/Vrinda-Store-Data-Analysis/assets/134633977/289638f1-2401-40a2-80fd-8cc77f776443)
 
 
 
